@@ -19,7 +19,7 @@ I'm a tech enthusiast thrives on transforming data into meaningful stories. With
   <a href="https://public.tableau.com/app/profile/devyani.arya2480/vizzes" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tableau_Software_logo.svg/1280px-Tableau_Software_logo.svg.png](https://www.google.com/imgres?q=tableau%20logo&imgurl=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2022%2F03%2FTableau-Logo.png&imgrefurl=https%3A%2F%2F1000logos.net%2Ftableau-logo%2F&docid=_ahkqP8zMPVXxM&tbnid=sk1sufm-B-chrM&vet=12ahUKEwiP_t3KrbaHAxXNyzgGHYogCm8QM3oECBUQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwiP_t3KrbaHAxXNyzgGHYogCm8QM3oECBUQAA)" alt="Tableau" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/devyaniarya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kaggle_logo.svg/1280px-Kaggle_logo.svg.png" alt="Kaggle" height="30" width="40" /></a>
   <a href="https://replit.com/@devyaniarya77" target="blank"><img align="center" src="https://replit.com/static/favicon.png" alt="Replit" height="30" width="40" /></a>
-  <a href="https://discord.com/users/@darya.jpg_92623" target="blank"><img align="center" src="https://drive.google.com/file/d/1i7tS2btFczdu0W7Thx8iZPzO3AjihTP3/view?usp=drive_link" alt="Discord" height="30" width="40" /></a>
+  <a href="https://discord.com/users/@darya.jpg_92623" target="blank"><img align="center" src="https://drive.google.com/file/d/1i7tS2btFczdu0W7Thx8iZPzO3AjihTP3/view?usp=sharing" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
